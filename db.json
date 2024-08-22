@@ -1,0 +1,426 @@
+{
+  "users": [
+    {
+      "email": "user1@gmail.com",
+      "name": "User 1",
+      "password": "$2a$10$/dV3g60PShJZ/7MHBRl66.pnv4UhqQVw8H8nVU9BVCh.hDIFOqzx6",
+      "avatar": "https://i.pravatar.cc/150?u=1",
+      "id": 1,
+      "address": {
+        "street": "123 Main Street",
+        "city": "New York",
+        "state": "NY",
+        "zipcode": "10001",
+        "country": "USA"
+      },
+      "website_link": "http://www.user1site.com"
+    },
+    {
+      "email": "user2@gmail.com",
+      "name": "User 2",
+      "password": "$2a$10$UzC1CwUBSTIOVVx2pwjlReHJjmyA6.3SlYDCtj.EZk2a85bC3O7Oq",
+      "avatar": "https://i.pravatar.cc/150?u=2",
+      "id": 2,
+      "address": {
+        "street": "456 Elm Street",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zipcode": "90001",
+        "country": "USA"
+      },
+      "website_link": "http://www.user2site.com"
+    },
+    {
+      "email": "user3@gmail.com",
+      "name": "User 3",
+      "password": "$2a$10$WSkISo2WbX1C5WajwDQfgu8QHDWhH5a2iCqGUENuQvLeMRyhJVN76",
+      "avatar": "https://i.pravatar.cc/150?u=3",
+      "id": 3,
+      "address": {
+        "street": "789 Oak Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "zipcode": "60601",
+        "country": "USA"
+      },
+      "website_link": "http://www.user3site.com"
+    },
+    {
+      "email": "user4@gmail.com",
+      "name": "User 4",
+      "password": "$2a$10$wrHSpPzkzW6299srHmwksuhgwRlAJkQyuWOy7hqh9.IMAg2sG07R2",
+      "avatar": "https://i.pravatar.cc/150?u=4",
+      "id": 4,
+      "address": {
+        "street": "101 Pine Street",
+        "city": "Houston",
+        "state": "TX",
+        "zipcode": "77001",
+        "country": "USA"
+      },
+      "website_link": "http://www.user4site.com"
+    },
+    {
+      "email": "user5@gmail.com",
+      "name": "User 5",
+      "password": "$2a$10$tteDBMzsQ5qucuzdhpq5DuCmKJD5buK5RtBS2SVjCaTbruIw0JeZK",
+      "avatar": "https://i.pravatar.cc/150?u=5",
+      "id": 5,
+      "address": {
+        "street": "234 Cedar Lane",
+        "city": "Miami",
+        "state": "FL",
+        "zipcode": "33101",
+        "country": "USA"
+      },
+      "website_link": "http://www.user5site.com"
+    },
+    {
+      "email": "user6@gmail.com",
+      "name": "User 6",
+      "password": "$2a$10$XNlkQ9VsvzooL7DlKeXMdO9B4JwImjyYfICsV0wfIiPmAPEydoNIq",
+      "avatar": "https://i.pravatar.cc/150?u=6",
+      "id": 6,
+      "address": {
+        "street": "345 Maple Road",
+        "city": "Seattle",
+        "state": "WA",
+        "zipcode": "98101",
+        "country": "USA"
+      },
+      "website_link": "http://www.user6site.com"
+    },
+    {
+      "email": "user7@gmail.com",
+      "name": "User 7",
+      "password": "$2a$10$MbR47VLeJxHmdq5bIRKq6uouBmJfBtzjotOB5yaPakTy9cfyJaeXO",
+      "avatar": "https://i.pravatar.cc/150?u=7",
+      "id": 7,
+      "address": {
+        "street": "567 Walnut Avenue",
+        "city": "Boston",
+        "state": "MA",
+        "zipcode": "02101",
+        "country": "USA"
+      },
+      "website_link": "http://www.user7site.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "post_contents": [
+        {
+          "id": 1,
+          "content": "Hello, this is my first post"
+        },
+        {
+          "id": 2,
+          "content": "Just wanted to say hi to everyone!"
+        },
+        {
+          "id": 3,
+          "content": "Feeling excited to join this community."
+        },
+        {
+          "id": 4,
+          "content": "Any tips for a newcomer like me?"
+        },
+        {
+          "id": 5,
+          "content": "Looking forward to interacting with all of you!"
+        },
+        {
+          "id": 6,
+          "content": "What are some popular topics of discussion here?"
+        },
+        {
+          "id": 7,
+          "content": "Happy to be a part of this group!"
+        },
+        {
+          "id": 8,
+          "content": "I'm passionate about technology and innovation."
+        },
+        {
+          "id": 9,
+          "content": "Excited to learn and grow with you all."
+        },
+        {
+          "id": 10,
+          "content": "Let's make this community thrive together!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "post_contents": [
+        {
+          "id": 1,
+          "content": "Just wanted to share my thoughts on today's weather. It's absolutely gorgeous outside!"
+        },
+        {
+          "id": 2,
+          "content": "The sunshine is really lifting my spirits today."
+        },
+        {
+          "id": 3,
+          "content": "I think I'll go for a nice walk later."
+        },
+        {
+          "id": 4,
+          "content": "Any outdoor activities you enjoy on a beautiful day like this?"
+        },
+        {
+          "id": 5,
+          "content": "I find nature so refreshing."
+        },
+        {
+          "id": 6,
+          "content": "Hope everyone gets a chance to enjoy the weather today!"
+        },
+        {
+          "id": 7,
+          "content": "It's days like these that remind me to appreciate the little things."
+        },
+        {
+          "id": 8,
+          "content": "What's the weather like where you are?"
+        },
+        {
+          "id": 9,
+          "content": "Wishing you all a fantastic day!"
+        },
+        {
+          "id": 10,
+          "content": "Let's make the most of this beautiful day!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "post_contents": [
+        {
+          "id": 1,
+          "content": "I can't believe it's already May! Time really flies, doesn't it?"
+        },
+        {
+          "id": 2,
+          "content": "May is one of my favorite months."
+        },
+        {
+          "id": 3,
+          "content": "The weather starts getting warmer, and everything feels more alive."
+        },
+        {
+          "id": 4,
+          "content": "Do you have any plans for this month?"
+        },
+        {
+          "id": 5,
+          "content": "I'm hoping to spend more time outdoors."
+        },
+        {
+          "id": 6,
+          "content": "What's your favorite thing about May?"
+        },
+        {
+          "id": 7,
+          "content": "It's a month of new beginnings."
+        },
+        {
+          "id": 8,
+          "content": "Looking forward to all the adventures ahead!"
+        },
+        {
+          "id": 9,
+          "content": "Wishing everyone a fantastic May!"
+        },
+        {
+          "id": 10,
+          "content": "Let's make the most of this month!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "post_contents": [
+        {
+          "id": 1,
+          "content": "Feeling inspired today! Working on a new project and it's coming along great."
+        },
+        {
+          "id": 2,
+          "content": "There's something special about starting something new."
+        },
+        {
+          "id": 3,
+          "content": "What projects are you currently working on?"
+        },
+        {
+          "id": 4,
+          "content": "I find creativity to be such a rewarding journey."
+        },
+        {
+          "id": 5,
+          "content": "It's amazing how ideas can come to life with a little dedication."
+        },
+        {
+          "id": 6,
+          "content": "What inspires you to create?"
+        },
+        {
+          "id": 7,
+          "content": "Excited to see where this project takes me!"
+        },
+        {
+          "id": 8,
+          "content": "Wishing you all a productive day!"
+        },
+        {
+          "id": 9,
+          "content": "Let's keep pushing the boundaries of what's possible!"
+        },
+        {
+          "id": 10,
+          "content": "Creativity knows no bounds!"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "post_contents": [
+        {
+          "id": 1,
+          "content": "Does anyone have any book recommendations? I'm looking for something new to read."
+        },
+        {
+          "id": 2,
+          "content": "Books are my favorite way to escape reality."
+        },
+        {
+          "id": 3,
+          "content": "What genres do you enjoy?"
+        },
+        {
+          "id": 4,
+          "content": "I'm open to all suggestions!"
+        },
+        {
+          "id": 5,
+          "content": "There's nothing quite like getting lost in a good book."
+        },
+        {
+          "id": 6,
+          "content": "Share your favorite reads with me!"
+        },
+        {
+          "id": 7,
+          "content": "I believe books have the power to change lives."
+        },
+        {
+          "id": 8,
+          "content": "Looking forward to discovering new worlds through literature."
+        },
+        {
+          "id": 9,
+          "content": "Happy reading, everyone!"
+        },
+        {
+          "id": 10,
+          "content": "Let's embark on literary adventures together!"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "post_contents": [
+        {
+          "id": 1,
+          "content": "Had an amazing dinner with friends tonight. Good food and great company!"
+        },
+        {
+          "id": 2,
+          "content": "There's something special about sharing a meal with loved ones."
+        },
+        {
+          "id": 3,
+          "content": "What's your favorite dish to cook for gatherings?"
+        },
+        {
+          "id": 4,
+          "content": "Food always tastes better when shared with friends."
+        },
+        {
+          "id": 5,
+          "content": "Feeling grateful for these moments of connection."
+        },
+        {
+          "id": 6,
+          "content": "What's the best meal you've had recently?"
+        },
+        {
+          "id": 7,
+          "content": "Here's to many more memorable dinners together!"
+        },
+        {
+          "id": 8,
+          "content": "Wishing you all delicious experiences ahead!"
+        },
+        {
+          "id": 9,
+          "content": "Let's savor the joy of good food and good company!"
+        },
+        {
+          "id": 10,
+          "content": "Bon appétit, everyone!"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "post_contents": [
+        {
+          "id": 1,
+          "content": "Just finished watching a fascinating documentary. It really got me thinking."
+        },
+        {
+          "id": 2,
+          "content": "Documentaries have a unique way of expanding our perspectives."
+        },
+        {
+          "id": 3,
+          "content": "What's the last documentary you watched?"
+        },
+        {
+          "id": 4,
+          "content": "I'm always on the lookout for thought-provoking content."
+        },
+        {
+          "id": 5,
+          "content": "Documentaries inspire me to learn and question."
+        },
+        {
+          "id": 6,
+          "content": "Share your favorite documentaries with me!"
+        },
+        {
+          "id": 7,
+          "content": "Knowledge is power, and documentaries are a great source of it."
+        },
+        {
+          "id": 8,
+          "content": "Looking forward to diving into more enriching documentaries."
+        },
+        {
+          "id": 9,
+          "content": "Let's explore the world through documentaries together!"
+        },
+        {
+          "id": 10,
+          "content": "Stay curious, everyone!"
+        }
+      ]
+    }
+  ]
+}
